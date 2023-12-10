@@ -1,0 +1,29 @@
+.BMI-bg {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 25%;
+}
+button {
+  background-color: green;
+  border-radius: 8px;
+  border: 0.4px solid red;
+  padding: 6px;
+  color: antiquewhite;
+}
+p {
+  color: red;
+}
+.back{
+
+    display: flex;
+    justify-content:flex-end;
+}
