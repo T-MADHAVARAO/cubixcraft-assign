@@ -25,6 +25,9 @@ const HomePage = () => (
       <h1>
         BMI Calculator Project : <Link to="/bmi-app">BMI-APP</Link>
       </h1>
+      <Link to="/my-resume">
+        <button>My Resume</button>
+      </Link>
     </div>
   </div>
 );
